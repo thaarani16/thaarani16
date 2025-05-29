@@ -17,9 +17,9 @@
 
 ---
 
-### 🧪 Latest Project
+ 🧪 Latest Project
 
-#### 🫀 ECG Signal Classification using Deep Learning (Mini Project)
+ 🫀 ECG Signal Classification using Machine Learning Techniques and Optimization Models
 
 Developed a deep learning pipeline for classifying ECG signals with the objective of detecting abnormalities.  
 Explored preprocessing, CNN-based model building, and performance evaluation using real ECG datasets.
@@ -29,4 +29,4 @@ Explored preprocessing, CNN-based model building, and performance evaluation usi
 
 ---
 
- "Strive not to be a success, but rather to be of value." – Albert Einstein
+ "STRIVE NOT TO BE A SUCCESS , BUT RATHER TO BE OF VALUE." 
