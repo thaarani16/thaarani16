@@ -1,0 +1,32 @@
+ 👋 Hi there, I'm Thaarani!
+
+ 💻 About Me
+
+- 🎓 3rd Year Undergraduate at **SASTRA Deemed University**
+- 🧠 Pursuing B.Tech in **Computer Science and Engineering**  
+  - 🎯 Specialization: **Artificial Intelligence and Data Science**
+- 🌱 Currently learning:
+  - Machine Learning Techniques
+  - Explainable AI (XAI)
+  - Deep Learning model construction and implementation
+- 💡 Interests: ML | XAI | DL | Data Science
+- 🔭 Working on projects under guidance from:
+  - **NIT Trichy**
+  - **SASTRA University**
+- 📫 Reach out to me: [thaaranisivakkumar16@gmail.com](mailto:thaaranisivakkumar16@gmail.com)
+
+---
+
+### 🧪 Latest Project
+
+#### 🫀 ECG Signal Classification using Deep Learning (Mini Project)
+
+Developed a deep learning pipeline for classifying ECG signals with the objective of detecting abnormalities.  
+Explored preprocessing, CNN-based model building, and performance evaluation using real ECG datasets.
+
+🔗 [View Project Repository](https://github.com/thaarani-your-repo-if-public)
+
+
+---
+
+ "Strive not to be a success, but rather to be of value." – Albert Einstein
