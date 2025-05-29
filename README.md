@@ -24,7 +24,7 @@
 Developed a deep learning pipeline for classifying ECG signals with the objective of detecting abnormalities.  
 Explored preprocessing, CNN-based model building, and performance evaluation using real ECG datasets.
 
-🔗 [View Project Repository](https://github.com/thaarani-your-repo-if-public)
+🔗 [View Project Repository](https://github.com/thaarani16/ECG-Classification-XGBoost)
 
 
 ---
