@@ -17,15 +17,15 @@
 🔭 Current Research & Projects:  
 - **Cognitive Performance Prediction using Game-Based Behavioral Data**  
   Applying supervised ML models like Decision Trees, XGBoost, and SVR to predict cognitive task completion times, in collaboration with **NIT Trichy**.  
-  thaarani16/-ballgame-cognitive-prediction 
+  [View Project Repository](https://github.com/thaaranisivakkumar/ballgame-cognitive-prediction)
 
 - **Unsupervised Learning for Cognitive Behavior Clustering**  
   Leveraging K-Means, Hierarchical Clustering, and PCA to reveal hidden patterns in cognitive game datasets.  
-  [View Project Repository](#)
+  [View Project Repository](https://github.com/thaaranisivakkumar/ballgame-cognitive-clustering)
 
 - **ECG Signal Classification using Deep Learning & Optimization Techniques**  
   Developed a robust deep learning pipeline for classifying ECG signals and detecting abnormalities, with a focus on preprocessing, CNN model building, and real-world dataset validation.  
-  [View Project Repository](#)
+  [View Project Repository](https://github.com/thaaranisivakkumar/ecg-signal-classification)
 
 ---
 
