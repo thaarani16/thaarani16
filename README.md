@@ -8,7 +8,6 @@
 
 🌱 Currently Learning:  
 - Advanced Machine Learning Techniques  
-- Explainable AI (XAI) for trustworthy models  
 - Deep Learning architecture design and optimization  
 
 💡 Interests:  
