@@ -17,7 +17,7 @@
 🔭 Current Research & Projects:  
 - **Cognitive Performance Prediction using Game-Based Behavioral Data**  
   Applying supervised ML models like Decision Trees, XGBoost, and SVR to predict cognitive task completion times, in collaboration with **NIT Trichy**.  
-  repo:thaarani16/-ballgame-cognitive-prediction 
+  thaarani16/-ballgame-cognitive-prediction 
 
 - **Unsupervised Learning for Cognitive Behavior Clustering**  
   Leveraging K-Means, Hierarchical Clustering, and PCA to reveal hidden patterns in cognitive game datasets.  
