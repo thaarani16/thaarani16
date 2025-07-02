@@ -18,7 +18,7 @@
   Applying supervised ML models like Decision Trees, XGBoost, and SVR to predict cognitive task completion times, in collaboration with **NIT Trichy**.  
  
 - **Unsupervised Learning for Cognitive Behavior Clustering**  
-  Leveraging K-Means, Hierarchical Clustering, and PCA to reveal hidden patterns in cognitive game datasets.  
+  Leveraging K-Means, Hierarchical Clustering, and GMM to reveal hidden patterns in cognitive game datasets.  
 
 - **ECG Signal Classification using Deep Learning & Optimization Techniques**  
   Developed a robust deep learning pipeline for classifying ECG signals and detecting abnormalities, with a focus on preprocessing, CNN model building, and real-world dataset validation.  
