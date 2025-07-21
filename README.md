@@ -11,7 +11,7 @@
 - Deep Learning architecture design and optimization  
 
 💡 Interests:  
-`Machine Learning` | `XAI` | `Deep Learning` | `Data Science` 
+`Machine Learning` | `FULL STACK DEVELOPMENT` | `Deep Learning` | `Data Science` 
 
 🔭 Current Research & Projects:  
 - **Cognitive Performance Prediction using Game-Based Behavioral Data**  
