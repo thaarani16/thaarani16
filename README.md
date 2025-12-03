@@ -26,7 +26,7 @@
 ---
 
 📫 Reach out to me:  
-`thaaranisivakkumar16@gmail.com`
+`thaaranisivakkumar7@gmail.com`
 
 ---
 
